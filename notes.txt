@@ -1,0 +1,17 @@
+basic:
+	races:
+		vantagens
+		desvantagens
+		probabilidades
+	battle:
+		arena:
+			battle solo:
+				loop;
+				atk;
+				xp;
+				
+			vantagens:
+
+	
+	view:
+		
